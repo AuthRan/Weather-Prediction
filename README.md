@@ -7,9 +7,9 @@ The dataset is preprocessed, converted from Celsius to Fahrenheit, and modeled u
 
 ## 📂 Project Structure
 
-├── GlobalTemperatures.csv # Dataset (from Kaggle)
-├── temperature_prediction.ipynb # Jupyter Notebook with full code
-├── README.md # Project documentation
+- GlobalTemperatures.csv # Dataset (from Kaggle)
+- temperature_prediction.ipynb # Jupyter Notebook with full code
+- README.md # Project documentation
 
 
 ---
